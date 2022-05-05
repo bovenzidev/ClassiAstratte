@@ -1,3 +1,5 @@
+package dev.bovenzi.lezione.astratte;
+
 public class Umano extends Animale{
 
     public Umano(String nome) {

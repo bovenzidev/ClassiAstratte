@@ -1,3 +1,5 @@
+package dev.bovenzi.lezione.astratte;
+
 public abstract class Oviparo extends Animale{
 
     public Oviparo(String nome) {
@@ -6,7 +8,7 @@ public abstract class Oviparo extends Animale{
 
     @Override
     public String getRiproduzione() {
-        return "Oviparo";
+        return "dev.bovenzi.lezione.astratte.Oviparo";
     }
 
 

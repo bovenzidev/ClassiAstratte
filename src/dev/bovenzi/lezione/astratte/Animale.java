@@ -1,3 +1,4 @@
+package dev.bovenzi.lezione.astratte;
 public abstract class Animale implements Comparable<Animale>{
     private String nome;
     private int campaPer;

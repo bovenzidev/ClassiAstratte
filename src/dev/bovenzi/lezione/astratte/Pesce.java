@@ -1,4 +1,6 @@
-public class Pesce extends Oviparo{
+package dev.bovenzi.lezione.astratte;
+
+public class Pesce extends Oviparo {
     public Pesce(String nome) {
         super(nome);
     }
